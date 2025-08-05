@@ -1,6 +1,6 @@
 sources:
   - name: jaffle_shop
-    database: jaffle_shop
+    database: pelagic-plexus-468013-t4
     schema: jaffle_shop
     description: E-commerce data
     tables:
